@@ -1,0 +1,16 @@
+.hello {
+    text-align: center;
+    margin: 20px;
+    font-size: 48px;
+    font-family: 'Arimo';
+    color: dodgerblue;
+}
+.hello button {
+    margin-left: 25px; 
+    margin-right: 25px;
+    font-size: 40px;
+    min-width: 50px;
+}
+.greeting {
+    margin-bottom: 15px; 
+}
